@@ -1,0 +1,19 @@
+body{
+  background: url(https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/PALM_BEACH_FLORIDA_AERIAL_2011.jpg/1920px-PALM_BEACH_FLORIDA_AERIAL_2011.jpg);
+}
+
+div{
+  background: blue;
+  border-color: orange;
+  border-width: 10px;
+  border-style: double;
+}
+
+p{
+  color: yellow;
+}
+
+span{
+  background: red;
+  color: black;
+}
