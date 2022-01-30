@@ -1,0 +1,30 @@
+h3{
+  font-family: 'Comforter', cursive;
+  text-align: center;
+}
+
+.center{
+  margin-left: auto;
+  margin-right: auto;
+}
+
+th{
+  width: 100px;
+  height: 300px;
+  border: 3px solid white;
+}
+#one{
+  background-color: rgb(176, 242, 180);
+}
+#two{
+  background-color: #BAF2E9;
+}
+#three{
+  background-color: #BAD7F2;
+}
+#four{
+  background-color: #F2BAC9;
+}
+#five{
+  background-color: #F2E2BA;
+}
